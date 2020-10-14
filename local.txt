@@ -32,3 +32,4 @@ cdn.shortpixel.ai
 click.e.shoppersdrugmart.ca
 advertising.amazon.ca
 rk.klclick2.com
+storage.googleapis.com
