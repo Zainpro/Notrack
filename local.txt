@@ -34,3 +34,5 @@ advertising.amazon.ca
 rk.klclick2.com
 storage.googleapis.com
 cws.conviva.com
+kodiprizren.com
+kodineuerleben.eu
