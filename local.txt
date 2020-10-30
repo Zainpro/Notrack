@@ -42,3 +42,16 @@ googlesyndication.com
 googleadservices.com
 storage.googleapis.com
 doubleclick.net
+g2.com
+pubmatic.com
+ebuckler.com
+mmstat.com
+advertising.com
+vidible.tv
+moatads.com
+quantserve.com
+rubiconproject.com
+fitanalytics.com
+exacttarget.com
+analytics.petalatino.com
+analytics.canadacomputers.com
